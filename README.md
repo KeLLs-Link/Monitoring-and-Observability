@@ -31,3 +31,14 @@ In contrast,
 
 are long-term processes that may happen only a few times. 
 Evaluation is a business-level activity, and It is usually performed by others not involved in developing the application.
+
+
+
+ Monitoring helps developers see that their application is performing as it should, and Evaluation shows that an application is both aligned with outcomes and is profitable. And when combined, these two processes ensure that a healthy, valuable, and performant application is delivered to the users. Monitoring an application is an ongoing process, whereas evaluation of an application may happen only a few times. Monitoring is performed by a person or people directly involved with the application and services. Evaluation can be performed by evaluators who manage the application but did not develop it, and Monitoring ensures that an application is performing well and as expected. Evaluation shows that an application is both relevant and profitable.
+
+ ## **Components of a Monitoring System**
+ One of the main component of a monitoring system is metrics. There are three essential components that form the basis of a monitoring system: ***metrics, observability, and alerting***. 
+
+- **Why are metrics important to track?** 
+
+Metrics represent how your applications use resources and provide insight into your systems' behavior and health. Important metrics you should track are host-based, ***application, network and connectivity, and server pool***. Metrics tracking can help you plan and analyze your monitoring strategy since systems usually function hierarchically, with more complex layers building on top of the more primitive infrastructure. Host-based metrics measure: ***CPU, Memory, Disk space, Processes.***
